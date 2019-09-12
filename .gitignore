@@ -31,3 +31,6 @@ w4444.iml
 
 # ignore changes to Makefile
 Makefile
+
+# ignore log.txt
+log.txt
